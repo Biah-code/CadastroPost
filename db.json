@@ -1,0 +1,37 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Beatriz",
+      "sobrenome": "Souza",
+      "telefone": "999999999",
+      "rua": "Rua Exemplo",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "80000000",
+      "rg": "123456",
+      "cpf": "12345678900",
+      "idade": "15",
+      "curso": "Biologia",
+      "escola": "Escola",
+      "senha": "1234"
+    },
+    {
+      "nome": "Beatriz",
+      "sobrenome": "Abreu",
+      "telefone": "11 913604330",
+      "rua": "Treze de Maio",
+      "cidade": "Mogi das Cruzes",
+      "estado": "São Paulo",
+      "cep": "08830-310",
+      "rg": "21414515311",
+      "cpf": "15133526252",
+      "idade": "12",
+      "curso": "Pericia Criminal",
+      "escola": "Sesi",
+      "senha": "3114",
+      "id": "sw8Syx28EDw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
